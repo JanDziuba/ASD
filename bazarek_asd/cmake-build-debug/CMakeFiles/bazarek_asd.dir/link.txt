@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/bazarek_asd.dir/main.cpp.o  -o bazarek_asd 
